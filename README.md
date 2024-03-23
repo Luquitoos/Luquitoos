@@ -16,7 +16,7 @@
 <div align="center"> 
 
 <a href="https://www.instagram.com/luquiitoos/" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/19351e1a-7cdc-4b6a-be0b-7c2c151980df">
+<img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/19351e1a-7cdc-4b6a-be0b-7c2c151980df">
 </a>
 
 <a href="mailto:lucasm.bizerril@gmail.com">
@@ -47,6 +47,7 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 
 <h3>‎ ‎ ‎ ‎ ‎ Although my current focus is on Back-End development, my passion for solving problems goes beyond just coding. For me, the real pleasure lies in the process of solving them and implementing them in an innovative way. That's why I make sure that my applications not only work efficiently but also have an attractive and intuitive design. After all, the journey from concept to realization is where my ideas come to life.🙂</h4>
 
+<h1 align="center"> Status <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/8587cab3-39e0-40d9-8c5c-b90d3e5397bf" width="40px"> </h1>
 
 </div>
 
@@ -68,9 +69,14 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/60a30cfc-0e7c-44a8-aef6-f1ffa543d9c7" width="60px"height="60" >
 </div>
 
+<h1 align="center"> Contributions <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/575a4436-fde8-49ea-915e-ba8f3205e014" width="20px">
+<br>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luquitoos&bg_color=0e1117&color=9e4c98&line=a8329a&point=682acb&area=true&hide_border=true" />
+</div>
 
 <div align="center">
-<br>
 <h5>I hope my profile has aroused your interest, and I sincerely thank you for the time you have taken to get to know me.</h5>
 
 <div>
