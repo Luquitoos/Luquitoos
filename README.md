@@ -43,7 +43,7 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 
 <div align="justify"> 
 
-<h3>‎ ‎ ‎ ‎ ‎ Hello, my name is Lucas Magalhães. I am a technology enthusiast passionate about exploring solutions that simplify my daily life and the lives of others. If I can't find a suitable tool, I don't hesitate to develop one myself. This creative drive led me to the world of computing, where I am currently studying Computer Science at the renowned Federal University of Ceara. My future goal is to immerse myself in the field of Artificial Intelligence and Cybersecurity development and improvement.🤖 </h4>
+<h3>‎ ‎ ‎ ‎ ‎ Hello, my name is Lucas Magalhães. I am a technology enthusiast passionate about exploring solutions that simplify my daily life and the lives of others. If I can't find a suitable tool, I don't hesitate to develop one myself. This creative drive led me to the world of computing, where I am currently studying Computer Science at the Federal University of Ceara. My future goal is to immerse myself in the field of Artificial Intelligence and Cybersecurity development and improvement.🤖 </h4>
 
 <h3>‎ ‎ ‎ ‎ ‎ Although my current focus is on Back-End development, my passion for solving problems goes beyond just coding. For me, the real pleasure lies in the process of solving them and implementing them in an innovative way. That's why I make sure that my applications not only work efficiently but also have an attractive and intuitive design. After all, the journey from concept to realization is where my ideas come to life.🙂</h4>
 
