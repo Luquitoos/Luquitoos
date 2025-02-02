@@ -19,10 +19,6 @@
 <img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/19351e1a-7cdc-4b6a-be0b-7c2c151980df">
 </a>
 
-<a href="mailto:lucasm.bizerril@gmail.com">
-<img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/c8da2f0c-54c6-442f-8c81-0de56a0bf0ed">
-</a>
-
 <a  href="https://www.linkedin.com/in/lucasmfbizerril/" target=_blank>
 <img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/cf9339b6-063b-4e46-a389-e8353db6e136">
 </a>
@@ -61,7 +57,8 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
   <br>
 
 <div align="center">
-<img align="center" src="https://camo.githubusercontent.com/b0f2cd88a0d91182e309b429ac713d14091330cce5a411edafaad2aa2202d67b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f666f726d61743a776562702f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" width="60px"height="60">
+<img align="center" src="https://icons8.com/icons/set/c-programming" width="60px"height="60">
+<img align="center" src="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn" width="60px"height="60">
 <img align="center" src="https://media.licdn.com/dms/image/D4D12AQGPsMj05z71VA/article-cover_image-shrink_600_2000/0/1693836846985?e=2147483647&v=beta&t=eqxVcd9LGvamjnWIcEXGZ8tYqUnShccB3vm07aQ1kHc" width="60px"height="60">
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/c72839f1-5e76-4439-9173-e4c7e8d8e456" width="60px"height="60" >
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/60a30cfc-0e7c-44a8-aef6-f1ffa543d9c7" width="60px"height="60" >
