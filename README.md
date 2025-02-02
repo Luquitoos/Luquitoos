@@ -57,8 +57,8 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
   <br>
 
 <div align="center">
-<img align="center" src="https://icons8.com/icons/set/c-programming" width="60px"height="60">
-<img align="center" src="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn" width="60px"height="60">
+<img align="center" src="https://github.com/Luquitoos/Luquitoos/issues/2#issue-2825515859" width="60px"height="60">
+<img align="center" src="https://github.com/Luquitoos/Luquitoos/issues/1#issue-2825515578" width="60px"height="60">
 <img align="center" src="https://media.licdn.com/dms/image/D4D12AQGPsMj05z71VA/article-cover_image-shrink_600_2000/0/1693836846985?e=2147483647&v=beta&t=eqxVcd9LGvamjnWIcEXGZ8tYqUnShccB3vm07aQ1kHc" width="60px"height="60">
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/c72839f1-5e76-4439-9173-e4c7e8d8e456" width="60px"height="60" >
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/60a30cfc-0e7c-44a8-aef6-f1ffa543d9c7" width="60px"height="60" >
