@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Truculenta&size=40&duration=4300&pause=500&color=A6319A&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Lucas+Magalh%C3%A3es;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Truculenta&size=40&duration=4300&pause=500&color=A6319A&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Lucas+Magalh%C3%A3es;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)
 
 </div>
 
