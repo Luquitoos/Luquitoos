@@ -73,7 +73,8 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 </div>
 
 <div align="center">
-  [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=Luquitoos&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/Luquitoos)
 <h5>I hope my profile has aroused your interest, and I sincerely thank you for the time you have taken to get to know me.</h5>
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/Luquitoos)
 
 <div>
