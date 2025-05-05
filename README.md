@@ -20,10 +20,6 @@
 <img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/19351e1a-7cdc-4b6a-be0b-7c2c151980df">
 </a>
 
-<a  href="https://www.linkedin.com/in/lucasmfbizerril/" target=_blank>
-<img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/cf9339b6-063b-4e46-a389-e8353db6e136">
-</a>
-
 <a  href="https://steamcommunity.com/id/Luquitoos" target=_blank>
 <img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/dc1991c6-c473-4508-802c-0df63c65c2d4">
 </a>
