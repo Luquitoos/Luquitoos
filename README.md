@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luquitoos&theme=buefy-dark&hide_border=true&background=0E1117&stroke=FBFBFB&ring=A43792&fire=AC1C98&sideNums=7A17B7&sideLabels=7A17B7&dates=FBFBFB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luquitos&theme=buefy-dark&hide_border=true&background=0E1117&stroke=FBFBFB&ring=A43792&fire=AC1C98&sideNums=7A17B7&sideLabels=7A17B7&dates=FBFBFB)
 
 
 </div>
