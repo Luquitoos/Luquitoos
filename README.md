@@ -15,9 +15,13 @@
 </div>
 
 <div align="center"> 
-
+  
 <a href="https://www.instagram.com/luquiitoos/" target="_blank">
 <img align="center" height="70" width="70" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/19351e1a-7cdc-4b6a-be0b-7c2c151980df">
+</a>
+
+<a href="https://www.linkedin.com/in/lucasbizerril/" target="_blank">
+<img align="center" height="70" width="70" src="https://github.com/user-attachments/assets/d1c7b8df-089a-4db9-8de7-8623f70bdd5d">
 </a>
 
 <a  href="https://steamcommunity.com/id/Luquitoos" target=_blank>
@@ -52,10 +56,13 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 <h1 align="center"> Languages ​​and Technologies <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fd14b68e-43c5-4a31-90a7-b6f0a4991f4d" width="20px">
   <br>
   <br>
-
 <div align="center">
-<img align="center" src="https://i.imgur.com/khY4qH6.png" width="60px"height="60">
-<img align="center" src="https://i.imgur.com/laobpmd.gif" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/82436860-0995-414e-a8aa-798608c1b9ce" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/b88e7cfa-38e0-43a8-88cb-130c8b9aa110" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/067aadc5-5143-49c2-b2e0-50f9f00c1dca" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/49af7d4b-f570-4bd4-a136-5ce3a5a762ed" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/65f47bdf-6525-4402-9927-44dcfdd911f4" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/0487dd84-56ad-4856-871e-b0fc8d879d7b" width="60px"height="60">
 <img align="center" src="https://media.licdn.com/dms/image/D4D12AQGPsMj05z71VA/article-cover_image-shrink_600_2000/0/1693836846985?e=2147483647&v=beta&t=eqxVcd9LGvamjnWIcEXGZ8tYqUnShccB3vm07aQ1kHc" width="60px"height="60">
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/c72839f1-5e76-4439-9173-e4c7e8d8e456" width="60px"height="60" >
 <img align="center" src="https://github.com/Luquitoos/Luquitoos/assets/154476510/60a30cfc-0e7c-44a8-aef6-f1ffa543d9c7" width="60px"height="60" >
