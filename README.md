@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luquitos&theme=buefy-dark&hide_border=true&background=0E1117&stroke=FBFBFB&ring=A43792&fire=AC1C98&sideNums=7A17B7&sideLabels=7A17B7&dates=FBFBFB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luquitoos&theme=buefy-dark&hide_border=true&background=0E1117&stroke=FBFBFB&ring=A43792&fire=AC1C98&sideNums=7A17B7&sideLabels=7A17B7&dates=FBFBFB)
 
 
 </div>
@@ -49,8 +49,8 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luquitos&hide_title=false&hide_rank=false&show_icons=true&bg_color=0e1117&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquitos&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=omni&hide_border=true&bg_color=0e1117" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luquitoos&hide_title=false&hide_rank=false&show_icons=true&bg_color=0e1117&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquitoos&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=omni&hide_border=true&bg_color=0e1117" height="150" alt="languages graph"  />
 </div>
 
 <h1 align="center"> Languages ​​and Technologies <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fd14b68e-43c5-4a31-90a7-b6f0a4991f4d" width="20px">
