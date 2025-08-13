@@ -59,6 +59,7 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 <div align="center">
 <img align="center" src="https://github.com/user-attachments/assets/82436860-0995-414e-a8aa-798608c1b9ce" width="60px"height="60">
 <img align="center" src="https://github.com/user-attachments/assets/b88e7cfa-38e0-43a8-88cb-130c8b9aa110" width="60px"height="60">
+<img align="center" src="https://github.com/user-attachments/assets/eea5f0a2-3228-4727-bfc6-1932f56a9b10" width="60px"height="60">
 <img align="center" src="https://github.com/user-attachments/assets/067aadc5-5143-49c2-b2e0-50f9f00c1dca" width="60px"height="60">
 <img align="center" src="https://github.com/user-attachments/assets/49af7d4b-f570-4bd4-a136-5ce3a5a762ed" width="60px"height="60">
 <img align="center" src="https://github.com/user-attachments/assets/65f47bdf-6525-4402-9927-44dcfdd911f4" width="60px"height="60">
