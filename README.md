@@ -49,7 +49,7 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luquitoos&hide_title=false&hide_rank=false&show_icons=true&bg_color=0e1117&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luquitoos&hide_title=false&hide_rank=false&show_icons=true&bg_color=0e1117&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&force=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquitoos&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=omni&hide_border=true&bg_color=0e1117" height="150" alt="languages graph"  />
 </div>
 
