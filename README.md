@@ -53,7 +53,7 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquitoos&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=omni&hide_border=true&bg_color=0e1117" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="center"> Languages ​​and Technologies <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fd14b68e-43c5-4a31-90a7-b6f0a4991f4d" width="20px">
+<h1 align="center"> Languages ​​and Technologies <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fd14b68e-43c5-4a31-90a7-b6f0a4991f4d&include_all_commits=true&count_private=true" width="20px">
   <br>
   <br>
 <div align="center">
