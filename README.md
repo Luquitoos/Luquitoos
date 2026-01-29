@@ -37,8 +37,6 @@ src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fae52765-9556-4eeb-
 
 <h3>‎ ‎ ‎ ‎ ‎ Although my current focus is on Back-End development, my passion for solving problems goes beyond just coding. For me, the real pleasure lies in the process of solving them and implementing them in an innovative way. That's why I make sure that my applications not only work efficiently but also have an attractive and intuitive design. After all, the journey from concept to realization is where my ideas come to life.🙂</h4>
 
-<h1 align="center"> Status <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/8587cab3-39e0-40d9-8c5c-b90d3e5397bf" width="40px"> </h1>
-
 </div>
 
 <h1 align="center"> Languages ​​and Technologies <img src="https://github.com/Luquitoos/Luquitoos/assets/154476510/fd14b68e-43c5-4a31-90a7-b6f0a4991f4d&include_all_commits=true&count_private=true" width="20px">
